@@ -14,13 +14,13 @@ My setup has a Dig2Go, an internal fan and a 5V buck converter, but I included a
 
 # Hardware list
 
-- fanpico 0804D (right angle connectors)
-- fanpico power board (right angle connectors)
+- [fanpico 0804D](https://github.com/tjko/fanpico) (right angle connectors)
+- [fanpico power board](https://github.com/tjko/fanpico/tree/main/boards/power-board) (right angle connectors)
 - 2x Noctua NF-A12x25 5V PWM
 - 1x Noctua NF-A20 5V PWM
 - 1x Noctua NF-A4x20 12V PWM
 - 1x Noctua NF-A8 12 V PWM
-- Dig2Go LED controller
+- [dig2Go](https://quinled.info/quinled-dig2go/) LED controller
 - 2x 1-Wire temperature sensor
 - 1x Kework micro USB extension (L-Micro)
 - 12V 3A powersupply
