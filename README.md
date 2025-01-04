@@ -11,6 +11,7 @@ IMPORTANT: If you start from zero, you can use ONLY the Fanpico-0804D with 12V f
 
 My setup has a Dig2Go, an internal fan and a 5V buck converter, but I included a more basic case with a lid. (Both of them are 1U high.)
 
+3D files: https://makerworld.com/en/models/950427
 
 # Hardware list
 
@@ -26,4 +27,8 @@ My setup has a Dig2Go, an internal fan and a 5V buck converter, but I included a
 - 12V 3A powersupply
 - 2x B3950 Temperature sensor
 - 1x USB-C 2pin power cable (right angle)
+
+![Schematics](https://github.com/hunordori/rackpico/blob/main/fanpico_schematics.png)
+
+![installed rackpico](https://github.com/hunordori/rackpico/blob/main/pics/rackpico_installed.jpg)
 
