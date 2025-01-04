@@ -4,7 +4,7 @@ Build a device to control my home lab rack fans automatically, monitor it remote
 
 # Setup
 
-The heart and soul of the projects is @tkjo's [fanpico](https://github.com/tjko/fanpico).
+The heart and soul of the projects is [@tjko](https://github.com/tjko)'s [fanpico](https://github.com/tjko/fanpico).
 I used the Fanpico-0804D (v1.3) version with Power Board.
 
 IMPORTANT: If you start from zero, you can use ONLY the Fanpico-0804D with 12V fans. I already had 3x 5V fans installed.
