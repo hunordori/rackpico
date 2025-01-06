@@ -13,6 +13,13 @@ My setup has a Dig2Go, an internal fan and a 5V buck converter, but I included a
 
 3D files: https://makerworld.com/en/models/950427
 
+The setup file contains everything, but I have 4 temperature sensors:
+- intake (bottom)
+- top
+- rear
+- switch (middle of my 48 Port POE switch)
+and 5 fans (intake, top, back, Pfsense, and the fanpicos internal).
+
 # Hardware list
 
 - [fanpico 0804D](https://github.com/tjko/fanpico) (right angle connectors)
@@ -28,7 +35,13 @@ My setup has a Dig2Go, an internal fan and a 5V buck converter, but I included a
 - 2x B3950 Temperature sensor
 - 1x USB-C 2pin power cable (right angle)
 
+# Schematics
+
 ![Schematics](https://github.com/hunordori/rackpico/blob/main/fanpico_schematics.png)
 
+# Final build
+
 ![installed rackpico](https://github.com/hunordori/rackpico/blob/main/pics/rackpico_installed.jpg)
+
+![fanpico internal](https://github.com/hunordori/rackpico/blob/main/pics/rackpico_nolid.jpg)
 
